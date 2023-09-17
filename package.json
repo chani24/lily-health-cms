@@ -11,13 +11,14 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/strapi": "4.13.6",
-    "@strapi/plugin-users-permissions": "4.13.6",
     "@strapi/plugin-i18n": "4.13.6",
-    "better-sqlite3": "8.6.0"
+    "@strapi/plugin-users-permissions": "4.13.6",
+    "@strapi/strapi": "4.13.6",
+    "better-sqlite3": "8.6.0",
+    "pg": "^8.11.3"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Chidera Ani"
   },
   "strapi": {
     "uuid": "54fd1049-990c-4441-87c1-f54bce55b5f4"
